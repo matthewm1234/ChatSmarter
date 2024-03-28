@@ -8,5 +8,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "src/components/HomeHeader.js", "src/components/ChatItem.js", "src/components/MessagesList.js"  ]
 }
